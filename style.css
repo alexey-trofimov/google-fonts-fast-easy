@@ -1,0 +1,33 @@
+/*
+Style file
+*/
+
+/* Container with test content */
+.container {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 60px 20px;
+}
+
+/* Page title (h1) */
+.page-title {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+	font-size: 70px;
+	line-height: 1.12;
+	margin: 0 0 40px;
+}
+
+/* Page text (p) */
+.page-text {
+	font-family: 'Merriweather', serif;
+	font-weight: 300;
+	font-size: 19px;
+	line-height: 1.8;
+	margin: 0 0 30px;
+}
+
+/* Page text - Italic style */
+.page-text.italic {
+	font-style: italic;
+}
